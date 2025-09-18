@@ -17,19 +17,29 @@ body {
     color: #3a3a3a;
     font-family: "Lato", sans-serif;
 }
+
+/* Header */
+header {
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    
+}
+
 /* Logo font */
 h1 {
     font-family: "Oswald", sans-serif;
 }
 
+/*
 body {
     font-family: "Lato", sans-serif;
 }
+*/
 
-/* Header */
-header {
-    background-color: lightcoral;
-}
 /* Main content */
 main {
     background-color: lightblue;
