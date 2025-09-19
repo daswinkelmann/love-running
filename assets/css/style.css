@@ -81,7 +81,7 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    
+
 }
 
 
@@ -91,6 +91,8 @@ main {
     background-color: lightblue;
     /* make main element take up any surplus space to poush the footer down */
     flex: 1 0 auto;
+    margin-top: 47px;
+    
 }
 
 /* Footer */
