@@ -109,7 +109,8 @@ main {
     padding-left: 10px;
 }
 
-#cover-text > h2, h3 {
+#cover-text > h2,
+#cover-text > h3 {
     color: #ffffff;
 }
 
@@ -157,17 +158,15 @@ main {
 
     /* Main content */
     main {
-        /* push main content down to accomodate larger heder */
+        /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
 
-/* Hero */
-#cover-text {
-    width: 300px;
-    right: 50px;
-}
-
-
+    /* Hero image*/
+    #cover-text {
+        width: 300px;
+        right: 50px;
+    }
 }
 
 /* Media query: larger screens (992px and up) */
