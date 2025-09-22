@@ -185,6 +185,11 @@ Each div will expand to fill the available space on it's row */
     color: #fafafa;
 }
 
+/* Gallery page */
+#photos img {
+    width: 100%;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
